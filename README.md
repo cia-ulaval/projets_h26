@@ -1,2 +1,1 @@
-# projets_h26
-La fiche des projets pour la session d'hiver 2026
+# Description courte des projets pour la session H26
