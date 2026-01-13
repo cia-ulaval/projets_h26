@@ -10,7 +10,7 @@
 
 ## Description du Projet
 
-Développer une intelligence artificielle pour apprendre à un robot humanoïde Poppy à marcher en utilisant l'apprentissage par renforcement dans un environnement de simulation, en préparation d'un déploiement sur le robot physique.
+Ce projet vise à développer une intelligence artificielle basée sur l’apprentissage par renforcement afin d’apprendre à un robot humanoïde Poppy à marcher. L’entraînement est réalisé dans un environnement de simulation pour obtenir une marche stable et robuste, en vue d’un futur déploiement sur le robot physique.
 
 ## Objectifs & Livrables
 
@@ -25,12 +25,12 @@ Développer une intelligence artificielle pour apprendre à un robot humanoïde 
 
 | Semaine | Activité/Phase |
 | :-----: | :------------- |
-|  **1-2**  | **Préliminaires** - Survol projet et revue littérature |
-|  **3-4**  | **Hello World** - Familiarisation librairies RL |
-|  **5-6**  | **Simulation** - Prise en main environnements simplifiés |
-|  **7-8**  | **Implémentation** - Développement algorithmes RL |
-|  **9-10** | **TODO** |
-|  **11-14**| **TODO** |
+| Semaine 1-2  |   Survol du projet en équipe et revue de littérature pour l'entrainement de robot humanoide   |
+| Semaine 3-4-5  |   Tests et choix de l'algorithme d'entrainement  |
+| Semaine 6-7  |   Entrainement et optimisation des hyper-paramètres   |
+| Semaine 8-9  |   Implémentation du module de connection du modèle aux robot physique et courte revue de littérature pour le Sim2Real (passer du simulateur au robot physique)  |
+| Semaine 10-11 |   Ajustement et ré-entrainement en préparation au transfert vers le robot physique   |
+| Semaine 12-13|   Tests sur le robot physique et rédaction du rapport    |
 
 ## Technologies & Compétences Visées
 
