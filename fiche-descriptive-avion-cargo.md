@@ -1,4 +1,4 @@
-# Atterrissage vertical de précision 🚁
+# Atterrissage vertical de précision ✈️ 
 
 ## Fiche d'Identité
 
@@ -80,3 +80,4 @@ Tu devrais rejoindre ce projet si :
 
 * **Team Lead :** Charles Clavet  
 * **Projet :** Avion Cargo – SAE AeroDesign
+
