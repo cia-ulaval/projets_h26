@@ -40,13 +40,12 @@ Plus précisément le projet consiste à:
 
 ## Objectifs & Livrables
 
-* **Objectif principal :** Développer un système laser production ready pouvant être installé sur n'importe quel drone de compétition.
+* **Objectif principal :** Gagner la compétition
 * **Livrables attendus :**
 
-  * Système laser avec capteurs 180° fonctionnel
-  * PCB custom et programme embarqué
-  * Logiciel central de gestion de parties et leaderboard
-  * Supports mécaniques et boîtier professionnel
+  * Fabriquer un drone FPV avec plusieurs capteurs sous 250g
+  * Développer une simulation Isaac Sim
+  * Faire une IA qui pilote le drone
 
 
 ## Conditions d’engagement
@@ -57,13 +56,14 @@ Plus précisément le projet consiste à:
 
 ## Technologies & Compétences Visées
 
-* **Matériels :** Drone FPV, capteurs diverse (Caméra (mono et stéréo), Lidar, ToF
+* **Matériels :** Drone FPV, capteurs diverse (Caméra (mono et stéréo), Lidar, ToF, blazer et receiver laser, IMU), Isaac Sim, Burn (Rust)
 * **Compétences :** Programmation embarqué, Électronique, Télécommunications, Mécanique, Aéronautique, Isaac Sim, Reinforcement Learning, Robotique Mobile, Deep Learning, Computer Vision, Pilote de drones FPV, protypage rapide.
 
 ## Pourquoi rejoindre ce projet ?
 
 Tu vas aimer ce projet si :
 
-* Tu veux participer à la création d'une compétition technologique unique entre universités
+* Tu est prêt à mettre du temps
+* Tu aime t'aventurer dans des projets qui sont à la limite du possible
+* Tu est compétitif, et est prêt à compétitionner contre les meilleurs du Québec dans le domaine.
 * Tu aimes travailler sur un projet concret alliant hardware et software
-* Tu veux développer des compétences en prototypage et conception de systèmes complexes
